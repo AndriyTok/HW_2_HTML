@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="63d6aacc-2c44-47f4-a6d9-0e93e74c614f" name="Changes" comment="" />
+    <list default="true" id="63d6aacc-2c44-47f4-a6d9-0e93e74c614f" name="Changes" comment="Виконав перше завдання (папка 2_1)" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -38,10 +38,35 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1706788163772</updated>
+      <workItem from="1706788164849" duration="162000" />
     </task>
+    <task id="LOCAL-00001" summary="Виконав перше завдання (папка 2_1)">
+      <option name="closed" value="true" />
+      <created>1706788234729</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1706788234729</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Виконав перше завдання (папка 2_1)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Виконав перше завдання (папка 2_1)" />
   </component>
 </project>
