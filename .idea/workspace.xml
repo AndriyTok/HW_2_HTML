@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="63d6aacc-2c44-47f4-a6d9-0e93e74c614f" name="Changes" comment="Виконав перше завдання (папка 2_1)">
-      <change afterPath="$PROJECT_DIR$/2_2/hw2_2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2_2/style2.css" afterDir="false" />
+    <list default="true" id="63d6aacc-2c44-47f4-a6d9-0e93e74c614f" name="Changes" comment="Змінив параметри висоти для flex-контейнера у першому завданні">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2_2/style2.css" beforeDir="false" afterPath="$PROJECT_DIR$/2_2/style2.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,7 +58,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1706788163772</updated>
-      <workItem from="1706788164849" duration="2018000" />
+      <workItem from="1706788164849" duration="2752000" />
     </task>
     <task id="LOCAL-00001" summary="Виконав перше завдання (папка 2_1)">
       <option name="closed" value="true" />
@@ -77,7 +76,15 @@
       <option name="project" value="LOCAL" />
       <updated>1706788371623</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Змінив параметри висоти для flex-контейнера у першому завданні">
+      <option name="closed" value="true" />
+      <created>1706790329303</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1706790329303</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -96,6 +103,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Виконав перше завдання (папка 2_1)" />
-    <option name="LAST_COMMIT_MESSAGE" value="Виконав перше завдання (папка 2_1)" />
+    <MESSAGE value="Змінив параметри висоти для flex-контейнера у першому завданні" />
+    <option name="LAST_COMMIT_MESSAGE" value="Змінив параметри висоти для flex-контейнера у першому завданні" />
   </component>
 </project>

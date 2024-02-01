@@ -13,4 +13,11 @@ body{
     width: 100px;
     height: 100px;
     background-color: red;
+    transition:0.5s;
+}
+.red:hover{
+    background-color: grey;
+    border-radius:50%;
+    transform: rotate(60deg);
+    transition: 1s
 }
