@@ -1,0 +1,78 @@
+@import url('https://fonts.googleapis.com/css2?family=Sixtyfour&display=swap');
+body{
+    margin:20px;
+}
+.sixtyfour{
+                font-family: "Sixtyfour", sans-serif;
+                font-optical-sizing: auto;
+                font-weight: 600;
+                font-style: normal;
+                font-variation-settings:
+                        "BLED" 0,
+                        "SCAN" 0;
+                color:white;
+
+            }
+.flex1{
+    width: 100%;
+    height: 400px;
+    margin-bottom:20px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: #13aeff;
+    transition:0.5s;
+}
+.flex2{
+    width: 100%;
+    height: 300px;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    background-color: #fff;
+}
+.w1{
+    width: 100%;
+    height: 300px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: #18104d;
+    transition:0.5s;
+}
+.w2{
+    width: 100%;
+    height: 300px;
+    margin-left:20px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: #18104d;
+    transition:0.5s;
+}
+.w3{
+     width: 100%;
+     height: 300px;
+     margin-left:20px;
+     display: flex;
+     justify-content: space-around;
+     align-items: center;
+     background-color: #18104d;
+    transition:0.5s;
+ }
+.flex3{
+    width: 100%;
+    height: 900px;
+    margin-top: 20px;
+    margin-bottom:20px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: #13aeff;
+    transition:0.5s;
+}
+.w1:hover,.w2:hover,.w3:hover,.flex1:hover,.flex3:hover {
+    background-color: grey;
+    transform: scale(1.05);
+    transition:1s;
+}
