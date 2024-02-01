@@ -1,0 +1,42 @@
+body{
+    margin:20px;
+}
+
+pre{
+    font-size: xx-large;
+}
+.flex{
+    width: 85%;
+    height: 130px;
+    /*margin:20px;*/
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.card{
+    width: 100%;
+    height: 130px;
+    margin: 8px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: rgba(226, 223, 223, 0.95);
+    transition: 0.3s;
+}
+.font1{
+    color: black;
+    font-size: xxx-large;
+}
+.font2{
+    color:red;
+    font-size: xxx-large;
+}
+.card:hover {
+    transform: scale(1.1);
+    transform: rotate(45deg);
+    transition: 0.6s;
+}
+pre:hover{
+    color:red;
+}

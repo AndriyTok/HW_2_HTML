@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="63d6aacc-2c44-47f4-a6d9-0e93e74c614f" name="Changes" comment="Змінив параметри висоти для flex-контейнера у першому завданні">
+    <list default="true" id="63d6aacc-2c44-47f4-a6d9-0e93e74c614f" name="Changes" comment="Виконав третє завдання (+додав hover додатково)">
+      <change afterPath="$PROJECT_DIR$/additional_1/CardGame_style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/additional_1/add_CardGame.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2_2/style2.css" beforeDir="false" afterPath="$PROJECT_DIR$/2_2/style2.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,32 +25,32 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "customColor": "",
-  "associatedIndex": 5
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 5
+}</component>
   <component name="ProjectId" id="2blSQyIQtaNrKf15hNaqQobertS" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "DefaultHtmlFileTemplate": "HTML File",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true",
-    "list.type.of.created.stylesheet": "CSS",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -58,7 +59,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1706788163772</updated>
-      <workItem from="1706788164849" duration="2752000" />
+      <workItem from="1706788164849" duration="8069000" />
+      <workItem from="1706797399319" duration="2433000" />
     </task>
     <task id="LOCAL-00001" summary="Виконав перше завдання (папка 2_1)">
       <option name="closed" value="true" />
@@ -84,7 +86,23 @@
       <option name="project" value="LOCAL" />
       <updated>1706790329303</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Виконав друге завдання (папка 2_2)">
+      <option name="closed" value="true" />
+      <created>1706790952762</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1706790952762</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Виконав третє завдання (+додав hover додатково)">
+      <option name="closed" value="true" />
+      <created>1706797341038</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1706797341038</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -104,6 +122,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Виконав перше завдання (папка 2_1)" />
     <MESSAGE value="Змінив параметри висоти для flex-контейнера у першому завданні" />
-    <option name="LAST_COMMIT_MESSAGE" value="Змінив параметри висоти для flex-контейнера у першому завданні" />
+    <MESSAGE value="Виконав друге завдання (папка 2_2)" />
+    <MESSAGE value="Виконав третє завдання (+додав hover додатково)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Виконав третє завдання (+додав hover додатково)" />
   </component>
 </project>
