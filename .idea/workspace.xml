@@ -4,10 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="63d6aacc-2c44-47f4-a6d9-0e93e74c614f" name="Changes" comment="Виконав третє завдання (+додав hover додатково)">
-      <change afterPath="$PROJECT_DIR$/additional_1/CardGame_style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/additional_1/add_CardGame.html" afterDir="false" />
+    <list default="true" id="63d6aacc-2c44-47f4-a6d9-0e93e74c614f" name="Changes" comment="Пофіксив помилку в CardGame_style.css">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2_1/hw2_1.html" beforeDir="false" afterPath="$PROJECT_DIR$/2_1/hw2_1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2_1/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/2_1/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2_3/hw2_3.html" beforeDir="false" afterPath="$PROJECT_DIR$/2_3/hw2_3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2_3/style3.css" beforeDir="false" afterPath="$PROJECT_DIR$/2_3/style3.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/additional_1/CardGame_style.css" beforeDir="false" afterPath="$PROJECT_DIR$/additional_1/CardGame_style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,6 +44,7 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
     &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
     &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
@@ -60,7 +64,9 @@
       <option name="presentableId" value="Default" />
       <updated>1706788163772</updated>
       <workItem from="1706788164849" duration="8069000" />
-      <workItem from="1706797399319" duration="2433000" />
+      <workItem from="1706797399319" duration="4043000" />
+      <workItem from="1706808538923" duration="275000" />
+      <workItem from="1706808869680" duration="1959000" />
     </task>
     <task id="LOCAL-00001" summary="Виконав перше завдання (папка 2_1)">
       <option name="closed" value="true" />
@@ -102,7 +108,23 @@
       <option name="project" value="LOCAL" />
       <updated>1706797341038</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Зробив додаткове завдання CardGame">
+      <option name="closed" value="true" />
+      <created>1706806153080</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1706806153080</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Пофіксив помилку в CardGame_style.css">
+      <option name="closed" value="true" />
+      <created>1706806232630</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1706806232630</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -124,6 +146,8 @@
     <MESSAGE value="Змінив параметри висоти для flex-контейнера у першому завданні" />
     <MESSAGE value="Виконав друге завдання (папка 2_2)" />
     <MESSAGE value="Виконав третє завдання (+додав hover додатково)" />
-    <option name="LAST_COMMIT_MESSAGE" value="Виконав третє завдання (+додав hover додатково)" />
+    <MESSAGE value="Зробив додаткове завдання CardGame" />
+    <MESSAGE value="Пофіксив помилку в CardGame_style.css" />
+    <option name="LAST_COMMIT_MESSAGE" value="Пофіксив помилку в CardGame_style.css" />
   </component>
 </project>
