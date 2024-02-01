@@ -2,6 +2,12 @@
 body{
     margin:20px;
 }
+.font1{
+    font-size: 25px;
+}
+.font2{
+    font-size: 18px;
+}
 .sixtyfour{
                 font-family: "Sixtyfour", sans-serif;
                 font-optical-sizing: auto;
@@ -31,7 +37,7 @@ body{
     align-items: center;
     background-color: #fff;
 }
-.w{
+.main{
     width: 33.3%;
     height: 300px;
     margin-right:20px;
@@ -43,7 +49,7 @@ body{
 }
 
 /*:last-child — це псевдоклас CSS, який вибирає останній елемент, який є дочірнім для його батьківського контейнера.*/
-.w:last-child{
+.main:last-child{
     margin-right: 0;
 }
 .flex3{
