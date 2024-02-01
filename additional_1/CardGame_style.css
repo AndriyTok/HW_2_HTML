@@ -33,7 +33,6 @@ pre{
     font-size: xxx-large;
 }
 .card:hover {
-    transform: scale(1.1);
     transform: rotate(45deg);
     transition: 0.6s;
 }
