@@ -63,7 +63,7 @@ body{
     background-color: #13aeff;
     transition:0.5s;
 }
-.w:hover,.flex1:hover,.flex3:hover {
+.main:hover,.flex1:hover,.flex3:hover {
     background-color: grey;
     transform: scale(1.05);
     transition:1s;

@@ -1,0 +1,87 @@
+body{
+    background-color: #369f9c;
+    margin:90px;
+}
+
+.big_font{
+    width:100%;
+    font-size: 100px;
+    font-weight: 900;
+    margin-top: 0;
+    text-align: center;
+    text-shadow: 4px 4px 6px rgba(0, 0, 0, 0.5);
+}
+
+span{
+    font-size: 18px;
+    text-align:center;
+}
+
+.bigtextw{
+    font-size: 22px;
+    color: white;
+    text-align: center;
+}
+
+.bigtextb{
+    font-size: 20px;
+    color: black;
+    text-align: center;
+}
+
+.flex{
+    width:100%;
+    height:180px;
+    display:flex;
+    margin-bottom: 10px;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.main{
+    width: 200px;
+    height: 170px;
+    margin: 3px;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    box-shadow: 8px 9px 9px -4px rgba(0,0,0,0.92);
+    -webkit-box-shadow: 8px 9px 9px -4px rgba(0,0,0,0.92);
+    -moz-box-shadow: 8px 9px 9px -4px rgba(0,0,0,0.92);
+    transition: 0.3s;
+}
+
+.main:hover{
+    transform: scale(1.1);
+    transition: 0.5s;
+}
+.black{
+  background-color:black;
+}
+.red{
+    background-color:red;
+}
+.green{
+    background-color:green;
+}
+.blue{
+    background-color:blue;
+}
+.fuchsia{
+    background-color:fuchsia;
+}
+.white{
+    background-color:white;
+}
+.yellow{
+    background-color:yellow;
+}
+.purple{
+    background-color:purple;
+}
+.maroon{
+    background-color:#800000;
+}
+.olive{
+    background-color: olive;
+}

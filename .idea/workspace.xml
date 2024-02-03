@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="63d6aacc-2c44-47f4-a6d9-0e93e74c614f" name="Changes" comment="Вдосконалив дз + add (скоротив)">
-      <change beforePath="$PROJECT_DIR$/2_3/hw2_3.html" beforeDir="false" afterPath="$PROJECT_DIR$/2_3/hw2_3.html" afterDir="false" />
+    <list default="true" id="63d6aacc-2c44-47f4-a6d9-0e93e74c614f" name="Changes" comment="Додав класи для шрифтів у 3 завд.">
+      <change afterPath="$PROJECT_DIR$/additional_2/HTMLColors.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/additional_2/add_HTMLColors.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/2_3/style3.css" beforeDir="false" afterPath="$PROJECT_DIR$/2_3/style3.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -62,7 +64,9 @@
       <workItem from="1706788164849" duration="8069000" />
       <workItem from="1706797399319" duration="4043000" />
       <workItem from="1706808538923" duration="275000" />
-      <workItem from="1706808869680" duration="2324000" />
+      <workItem from="1706808869680" duration="5781000" />
+      <workItem from="1706862349499" duration="649000" />
+      <workItem from="1706996762750" duration="3035000" />
     </task>
     <task id="LOCAL-00001" summary="Виконав перше завдання (папка 2_1)">
       <option name="closed" value="true" />
@@ -128,7 +132,15 @@
       <option name="project" value="LOCAL" />
       <updated>1706811079248</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Додав класи для шрифтів у 3 завд.">
+      <option name="closed" value="true" />
+      <created>1706811334850</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1706811334850</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -153,6 +165,7 @@
     <MESSAGE value="Зробив додаткове завдання CardGame" />
     <MESSAGE value="Пофіксив помилку в CardGame_style.css" />
     <MESSAGE value="Вдосконалив дз + add (скоротив)" />
-    <option name="LAST_COMMIT_MESSAGE" value="Вдосконалив дз + add (скоротив)" />
+    <MESSAGE value="Додав класи для шрифтів у 3 завд." />
+    <option name="LAST_COMMIT_MESSAGE" value="Додав класи для шрифтів у 3 завд." />
   </component>
 </project>
