@@ -4,12 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="63d6aacc-2c44-47f4-a6d9-0e93e74c614f" name="Changes" comment="Трохи вдосконалив код add_Food.html та Food.css">
-      <change afterPath="$PROJECT_DIR$/additional_4/AboutFigma.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/additional_4/add_AboutFigma.html" afterDir="false" />
+    <list default="true" id="63d6aacc-2c44-47f4-a6d9-0e93e74c614f" name="Changes" comment="Зробив додатк. завд. AboutFigma">
+      <change afterPath="$PROJECT_DIR$/additional_5/laststyle.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/additional_5/lasttask.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/additional_3/Food.css" beforeDir="false" afterPath="$PROJECT_DIR$/additional_3/Food.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/additional_3/add_Food.html" beforeDir="false" afterPath="$PROJECT_DIR$/additional_3/add_Food.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/additional_4/AboutFigma.css" beforeDir="false" afterPath="$PROJECT_DIR$/additional_4/AboutFigma.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,7 +70,10 @@
       <workItem from="1706996762750" duration="3035000" />
       <workItem from="1707000030687" duration="59000" />
       <workItem from="1707031455685" duration="1366000" />
-      <workItem from="1707054266265" duration="9110000" />
+      <workItem from="1707054266265" duration="12798000" />
+      <workItem from="1707070629316" duration="313000" />
+      <workItem from="1707072669283" duration="3000" />
+      <workItem from="1707078569991" duration="658000" />
     </task>
     <task id="LOCAL-00001" summary="Виконав перше завдання (папка 2_1)">
       <option name="closed" value="true" />
@@ -168,7 +171,15 @@
       <option name="project" value="LOCAL" />
       <updated>1707057819642</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Зробив додатк. завд. AboutFigma">
+      <option name="closed" value="true" />
+      <created>1707063659016</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1707063659016</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -197,6 +208,7 @@
     <MESSAGE value="Зробив додаткове завдання Html Colors" />
     <MESSAGE value="Зробив додаткове завдання на вих. (add.3)" />
     <MESSAGE value="Трохи вдосконалив код add_Food.html та Food.css" />
-    <option name="LAST_COMMIT_MESSAGE" value="Трохи вдосконалив код add_Food.html та Food.css" />
+    <MESSAGE value="Зробив додатк. завд. AboutFigma" />
+    <option name="LAST_COMMIT_MESSAGE" value="Зробив додатк. завд. AboutFigma" />
   </component>
 </project>

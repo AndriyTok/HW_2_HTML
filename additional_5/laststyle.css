@@ -1,0 +1,47 @@
+h1{
+    text-align: center;
+    font-size: 65px;
+}
+.big_href_text{
+    font-size: 40px;
+    font-weight: bold;
+    text-align:center;
+    cursor: pointer;
+    text-decoration: underline;
+    margin: 0;
+    color: inherit; /* Зберігає колір тексту від батьківського елемента */
+}
+.small_text{
+    font-size: 15px;
+    text-align:center;
+}
+.container {
+    width:100%;
+    height:200px;
+    margin: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.block{
+    width: 450px;
+    height: 200px;
+    margin: 20px;
+    padding: 15px;
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    border: 4px solid #144614;
+    border-radius: 4%;
+    flex-wrap:wrap;
+    transition:0.2s;
+}
+
+.block:hover{
+    transform: scale(1.1) rotate(10deg);
+    background-color: greenyellow;
+    transition: 0.4s;
+}
