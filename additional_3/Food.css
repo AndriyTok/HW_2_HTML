@@ -15,6 +15,7 @@ body{
 .small_font{
     text-align:center;
     font-size: x-large;
+    font-weight: bold;
     width:100%;
 }
 
@@ -46,7 +47,7 @@ body{
     height:auto;
 }
 
-.main:hover{
+.card:hover{
     transform: scale(1.2) rotate(30deg);
     transition: 0.4s
 }
