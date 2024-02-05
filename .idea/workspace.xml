@@ -4,12 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="63d6aacc-2c44-47f4-a6d9-0e93e74c614f" name="Changes" comment="Зробив додатк. завд. AboutFigma">
-      <change afterPath="$PROJECT_DIR$/additional_5/laststyle.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/additional_5/lasttask.html" afterDir="false" />
+    <list default="true" id="63d6aacc-2c44-47f4-a6d9-0e93e74c614f" name="Changes" comment="Зробив усі завдання🥳">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/additional_3/Food.css" beforeDir="false" afterPath="$PROJECT_DIR$/additional_3/Food.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/additional_4/AboutFigma.css" beforeDir="false" afterPath="$PROJECT_DIR$/additional_4/AboutFigma.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/additional_5/laststyle.css" beforeDir="false" afterPath="$PROJECT_DIR$/additional_5/laststyle.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/additional_5/lasttask.html" beforeDir="false" afterPath="$PROJECT_DIR$/additional_5/lasttask.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,7 +73,9 @@
       <workItem from="1707054266265" duration="12798000" />
       <workItem from="1707070629316" duration="313000" />
       <workItem from="1707072669283" duration="3000" />
-      <workItem from="1707078569991" duration="658000" />
+      <workItem from="1707078569991" duration="982000" />
+      <workItem from="1707122631973" duration="13000" />
+      <workItem from="1707127876174" duration="341000" />
     </task>
     <task id="LOCAL-00001" summary="Виконав перше завдання (папка 2_1)">
       <option name="closed" value="true" />
@@ -179,7 +181,15 @@
       <option name="project" value="LOCAL" />
       <updated>1707063659016</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Зробив усі завдання🥳">
+      <option name="closed" value="true" />
+      <created>1707079455668</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1707079455669</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -209,6 +219,7 @@
     <MESSAGE value="Зробив додаткове завдання на вих. (add.3)" />
     <MESSAGE value="Трохи вдосконалив код add_Food.html та Food.css" />
     <MESSAGE value="Зробив додатк. завд. AboutFigma" />
-    <option name="LAST_COMMIT_MESSAGE" value="Зробив додатк. завд. AboutFigma" />
+    <MESSAGE value="Зробив усі завдання" />
+    <option name="LAST_COMMIT_MESSAGE" value="Зробив усі завдання" />
   </component>
 </project>

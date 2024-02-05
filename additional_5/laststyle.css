@@ -2,6 +2,11 @@ h1{
     text-align: center;
     font-size: 65px;
 }
+
+a{
+    color:black;
+    text-decoration: none;
+}
 .big_href_text{
     font-size: 40px;
     font-weight: bold;
